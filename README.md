@@ -3,7 +3,7 @@ This project is about develop an application using OpenCV &amp; Neural Networks 
 
 ## Getting Started
 
-Well, the project already started with a basic version off the app made. Which is just an .apk that uses the camera, and with its one button, when pressed; processes the frames using (yolov3-tiny).[https://pjreddie.com/darknet/yolo/] 
+Well, the project already started with a basic version off the app made. Which is just an .apk that uses the camera, and with its one button, when pressed; processes the frames using [yolov3-tiny].(https://pjreddie.com/darknet/yolo/) 
 
 Now we are trying to achieve, fullscreen without breaking anything.
 
