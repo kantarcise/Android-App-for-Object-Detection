@@ -11,20 +11,11 @@ After we are gonna be trying to use the camera at 720p 30fps.
 
 Maybe somewhere on the line we will try to get the yolo results to a txt.
 
-//### Installing
 
-
-
-//## Running the tests
-
-
-
-//### Tips And Tricks
-
-
-
-//## Help, I'm Stuck!
-
-//For any questions regarding on how to use the app, feel free to contact [Sezai](mailto:sezaiburakkantarci@gmail.com) from the mail. 
-
-
+<!--
+### Installing
+## Running the tests
+### Tips And Tricks
+## Help, I'm Stuck!
+For any questions regarding on how to use the app, feel free to contact [Sezai](mailto:sezaiburakkantarci@gmail.com) from the mail. 
+-->
