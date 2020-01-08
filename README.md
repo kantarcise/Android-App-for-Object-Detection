@@ -1,6 +1,10 @@
 # Android-App-for-Object-Detection
 This project is about develop an application using OpenCV &amp; Neural Networks with object detection goal in mind.
 
+<p align="center">
+  <img src="screen.jpg">
+</p>
+
 ## Getting Started
 
 Well, the project already started with a basic version off the app made. Which is just an .apk that uses the camera, and with its one 
