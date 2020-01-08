@@ -30,7 +30,7 @@ to the important trio, i got you covered; you can find them down below.
 [OpenCV347](https://opencv.org/releases/) library is implemented for the functions that are used in the mainactivity.java. 
 
 Currently working on sensor data implementation, to the detector, to improve performance of object detection. 
-(Which is my final project by the way =) )
+(Which is my senior design project by the way =) )
 
 <!--
 ### Installing
