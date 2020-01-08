@@ -16,7 +16,7 @@ After we are gonna be trying to use the camera at 720p 30fps.
 
 Maybe somewhere on the line we will try to get the yolo results to a txt.
 
-## UPDATE 08.01.2020
+## Update - 08.01.2020
 
 The files for the object detector is added [here](). This is just the whole Android Studio Project; if you are just focused
 to the important trio, i got you covered; you can find them down below.
