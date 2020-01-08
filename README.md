@@ -18,18 +18,22 @@ Maybe somewhere on the line we will try to get the yolo results to a txt.
 
 ## Update - 08.01.2020
 
-The files for the object detector is added [here](). This is just the whole Android Studio Project; if you are just focused
+The files for the object detector is added [here](https://github.com/kantarcise/Android-App-for-Object-Detection/tree/master/TinyYolov3). This is just the whole Android Studio Project; if you are just focused
 to the important trio, i got you covered; you can find them down below.
 
-[activitymain.xml]()
+[activitymain.xml](https://github.com/kantarcise/Android-App-for-Object-Detection/blob/master/TinyYolov3/app/src/main/res/layout/activity_main.xml)
 
-[MainActivity.java]()
+[MainActivity.java](https://github.com/kantarcise/Android-App-for-Object-Detection/blob/master/TinyYolov3/app/src/main/java/com/example/tinyyolov3/MainActivity.java)
 
-[AndroidManifest.xml]()
+[AndroidManifest.xml](https://github.com/kantarcise/Android-App-for-Object-Detection/blob/master/TinyYolov3/app/src/main/AndroidManifest.xml)
 
 [OpenCV347](https://opencv.org/releases/) library is implemented for the functions that are used in the mainactivity.java. 
 
-Currently working on sensor data implementation, to the detector, to improve performance of object detection. 
+For this code and the tutorial, all credit goes to wonderful: [Ivan Goncharov](https://github.com/ivangrov).
+
+In the development process, I am currently working on sensor data implementation (accelerometer to be specific), to the detector, to 
+improve performance of object 
+detection. 
 (Which is my senior design project by the way =) )
 
 <!--
