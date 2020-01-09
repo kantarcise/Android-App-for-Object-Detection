@@ -1,5 +1,6 @@
 # Android-App-for-Object-Detection
-This project is about develop an application using OpenCV &amp; Neural Networks with object detection goal in mind.
+This project is about develop an application using OpenCV &amp; Neural Networks with object detection goal in mind (TinyYOLOv3 in 
+particular).
 
 <p align="center">
   <img src="screen.jpg">
