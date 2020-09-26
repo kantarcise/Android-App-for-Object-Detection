@@ -43,7 +43,7 @@ For my graduation project, i've recorded videos around my university campus to e
 
 A basic MATLAB routine to access the frames from all the videos after download can be found [here.](https://github.com/kantarcise/Android-App-for-Object-Detection/blob/master/assets/ExtractFramesFromVideo.m)
 
-The results from two videos can be seen in the gifs below.
+The results from three videos can be seen in the gifs below.
 
 <p align="center">
   <img src="assets/car.gif">
