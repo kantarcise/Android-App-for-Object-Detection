@@ -41,6 +41,8 @@ detection.
 
 For my graduation project, i've recorded videos around my university campus to evaluate results of TinyYolov3. The database of 19 videos can be found [here.](https://www.youtube.com/watch?v=1Pvu0rq3678&list=PLMzonaXew-55493qE290Zo2Sp53DxTXrW&ab_channel=msprITU)
 
+A basic MATLAB routine to access the frames from all the videos after download can be found [here.](https://github.com/kantarcise/Android-App-for-Object-Detection/blob/master/ExtractFramesFromVideo.m)
+
 The results from two videos can be seen in the gifs below.
 
 <p align="center">
