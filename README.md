@@ -39,7 +39,7 @@ detection.
 
 ## Detection on a Custom Dataset
 
-For my graduation project, i've recorded videos around my university campus to evaluate results of TinyYolov3. The database can be found [here.](https://www.youtube.com/watch?v=1Pvu0rq3678&list=PLMzonaXew-55493qE290Zo2Sp53DxTXrW&ab_channel=msprITU)
+For my graduation project, i've recorded videos around my university campus to evaluate results of TinyYolov3. The database of 19 videos can be found [here.](https://www.youtube.com/watch?v=1Pvu0rq3678&list=PLMzonaXew-55493qE290Zo2Sp53DxTXrW&ab_channel=msprITU)
 
 The results from two videos can be seen in the gifs below.
 
