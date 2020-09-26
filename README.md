@@ -17,7 +17,7 @@ After we are gonna be trying to use the camera at 720p 30fps.
 
 Maybe somewhere on the line we will try to get the yolo results to a txt.
 
-## Update - 08.01.2020
+## Detection with Smartphone Camera
 
 The files for the object detector is added [here](https://github.com/kantarcise/Android-App-for-Object-Detection/tree/master/TinyYolov3). This is just the whole Android Studio Project; if you are just focused
 to the important trio, i got you covered; you can find them down below.
@@ -36,6 +36,28 @@ In the development process, I am currently working on sensor data implementation
 improve performance of object 
 detection. 
 (Which is my senior design project by the way =) )
+
+## Detection on a Custom Dataset
+
+For my graduation project, i've recorded videos around my university campus to evaluate results of TinyYolov3. The database can be found [here.](https://www.youtube.com/watch?v=1Pvu0rq3678&list=PLMzonaXew-55493qE290Zo2Sp53DxTXrW&ab_channel=msprITU)
+
+The results from two videos can be seen in the gifs below.
+
+<p align="center">
+  <img src="car.gif">
+</p>
+
+<p align="center">
+  <img src="person.gif">
+</p>
+
+<p align="center">
+  <img src="van.gif">
+</p>
+
+
+Also for Precision & Recall & F1 Score plots of YOLOv3 and TinyYOLOv3 you can contact me via email. 
+
 
 <!--
 ### Installing
