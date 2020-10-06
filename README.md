@@ -58,7 +58,7 @@ The results from three videos can be seen in the gifs below.
 </p>
 
 
-Also for Precision & Recall & F1 Score plots of YOLOv3 and TinyYOLOv3 you can contact me via email. 
+In addition; for Precision & Recall & F1 Score plots of YOLOv3 and TinyYOLOv3 you can contact me via email. 
 
 
 <!--
