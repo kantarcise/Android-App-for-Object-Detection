@@ -11,13 +11,18 @@ particular).
 Well, the project already started with a basic version off the app made. Which is just an .apk that uses the camera, and with its one 
 button, when pressed; processes the frames using [yolov3-tiny](https://pjreddie.com/darknet/yolo/).
 
-Now we are trying to achieve, fullscreen without breaking anything.
-
-After we are gonna be trying to use the camera at 720p 30fps.
-
-Maybe somewhere on the line we will try to get the yolo results to a txt.
-
 ## Detection with Smartphone Camera
+
+You can use the files given down below to make a project in Android Studio and run the app on your mobile phone.
+
+If you want to compile the project yourself aswell, **there is one preprocess step you need to do**.
+
+  * Make a folder called **"dnns"** in the internal storage (Not SD Card) of your phone.
+  * Download the "yolov3-tiny.cfg" and "yolov3-tiny.weights" files from the [github repository.](https://github.com/kantarcise/Android-App-for-Object-Detection/tree/master/TinyYOLOv3Files)
+  * Copy the files you downloaded into the file **"dnss"** you made in your phone.
+
+
+
 
 The files for the object detector is added [here](https://github.com/kantarcise/Android-App-for-Object-Detection/tree/master/TinyYolov3). This is just the whole Android Studio Project; if you are just focused
 to the important trio, i got you covered; you can find them down below.
