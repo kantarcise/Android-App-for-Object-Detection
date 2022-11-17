@@ -19,7 +19,7 @@ If you want to compile the project yourself aswell, **there is one preprocess st
 
   * Make a folder called **"dnns"** in the internal storage (Not SD Card) of your phone.
   * Download the "yolov3-tiny.cfg" and "yolov3-tiny.weights" files from the [github repository.](https://github.com/kantarcise/Android-App-for-Object-Detection/tree/master/TinyYOLOv3Files)
-  * Copy the files you downloaded into the file **"dnss"** you made in your phone.
+  * Copy the files you downloaded into the file **"dnns"** you made in your phone.
 
 
 
